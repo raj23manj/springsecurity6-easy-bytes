@@ -47,7 +47,7 @@
 - Keycloak official documentation - https://www.keycloak.org/documentation
 - Keycloak Admin REST APIs - https://www.keycloak.org/docs-api/19.0.2/rest-api/index.html
 
-Sections: 
+# Sections: 
 
-ch1 -> 9,10,11,12 internals of spring security
-ch2 -> 17 explains about enabling authentication to individual requests
+- ch1 -> 9,10,11,12 internals of spring security
+- ch2 -> 17 explains about enabling authentication to individual requests
