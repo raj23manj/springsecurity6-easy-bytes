@@ -51,3 +51,4 @@
 
 - ch1 -> 9,10,11,12 internals of spring security
 - ch2 -> 17 explains about enabling authentication to individual requests
+     * defaultSecurityFilterChain
