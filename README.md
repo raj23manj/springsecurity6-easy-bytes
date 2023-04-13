@@ -53,3 +53,5 @@
 - ch2 -> 17 explains about enabling authentication to individual requests
      * defaultSecurityFilterChain
 - ch3 -> 23 explains about using password encoder and in-memory storing of user details
+- ch4 & 5 Password management and encoders, Authentication providers
+- ch6 57, enable cors -> cross orgin resource sharing
