@@ -56,3 +56,4 @@
 - ch4 & 5 Password management and encoders, Authentication providers
 - ch6 57, enable cors -> cross orgin resource sharing
 - ch6 59 csrf/xsrf -> cross site request forgery
+- ch7 & 8 Authority and Roles.
