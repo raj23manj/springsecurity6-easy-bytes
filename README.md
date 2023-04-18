@@ -57,3 +57,4 @@
 - ch6 57, enable cors -> cross orgin resource sharing
 - ch6 59 csrf/xsrf -> cross site request forgery
 - ch7 & 8 Authority and Roles.
+- ch8 74, pdf has inbuilt security filters.
