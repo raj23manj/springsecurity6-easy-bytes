@@ -59,3 +59,4 @@
 - ch7  Authority and Roles.
 - ch8 74, pdf has inbuilt security filters.
 - ch8 adding filters uisng addFilter*(), GenericFilterBean, OncePerRequestFilter
+- ch9 adding filters for token validators and generators
