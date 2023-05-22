@@ -68,6 +68,7 @@
      * CLient Credentials(server & server)
      * Device code(apple devices etc)
      * Refresh Token 
+     * 102 06:00, what details to be passed for pcke flow
    - OAuth 
      * resource owner(end user)
      * client(app, browser, postapp)
