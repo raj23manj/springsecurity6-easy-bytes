@@ -61,3 +61,12 @@
 - ch8 adding filters uisng addFilter*(), GenericFilterBean, OncePerRequestFilter
 - ch9 adding filters for token validators and generators
 - ch10 method level security @Preauthorize, @PostAuthorize, @PreFilter, @PostFilter
+- ch11 Oauth terminologies
+   - Grant Flows  
+     * Authorization code
+     * PKCE (client & server)
+     * CLient Credentials(server & server)
+     * Device code(apple devices etc)
+     * Refresh Token 
+   - resource owner(end user)
+   
