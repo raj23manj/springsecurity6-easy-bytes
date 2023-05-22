@@ -67,7 +67,7 @@
      * PKCE (client & server)
      * CLient Credentials(server & server)
      * Device code(apple devices etc)
-     * Password Grant/Resource owner credentials Grant Type
+     * Password Grant/Resource owner credentials Grant Type(not recommended)
      * Refresh Token 
      * Implicit grant flow(both code and pkce together, not secure deprecated => all requests are made as get, cliend_id is exposed and returned token also passed as query param which can be accessed by hacker)
      * see Oauth playgroun url for demo, above in the links
