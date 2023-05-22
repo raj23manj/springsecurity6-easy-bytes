@@ -68,6 +68,7 @@
      * CLient Credentials(server & server)
      * Device code(apple devices etc)
      * Refresh Token 
+     * Implicit grant flow(both code and pkce together, not secure deprecated)
      * 102 06:00, what details to be passed for pcke flow
    - OAuth 
      * resource owner(end user)
