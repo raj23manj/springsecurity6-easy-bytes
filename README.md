@@ -63,7 +63,7 @@
 - ch10 method level security @Preauthorize, @PostAuthorize, @PreFilter, @PostFilter
 - ch11 Oauth terminologies
    - Grant Flows  
-     * Authorization code
+     * Authorization code (initial code which is then used for pkce)
      * PKCE (client & server)
      * CLient Credentials(server & server)
      * Device code(apple devices etc)
