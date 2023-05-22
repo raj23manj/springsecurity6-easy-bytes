@@ -69,6 +69,7 @@
      * Device code(apple devices etc)
      * Refresh Token 
      * Implicit grant flow(both code and pkce together, not secure deprecated => all requests are made as get, cliend_id is exposed and returned token also passed as query param which can be accessed by hacker)
+     * see Oauth playgroun url for demo, above in the links
      * 102 06:00, what details to be passed for pcke flow
    - OAuth 
      * resource owner(end user)
