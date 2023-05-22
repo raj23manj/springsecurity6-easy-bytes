@@ -68,5 +68,10 @@
      * CLient Credentials(server & server)
      * Device code(apple devices etc)
      * Refresh Token 
-   - resource owner(end user)
+   - OAuth 
+     * resource owner(end user)
+     * client(app, browser, postapp)
+     * Authorization server(knows the resource owner(keycloak))
+     * Resource server(other micro services to access data)
+     * Scopes(permissions to access the data from resources(roles)) 
    
