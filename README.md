@@ -64,7 +64,7 @@
 - ch11 Oauth terminologies
    - Grant Flows  
      * Authorization code (initial code which is then used for pkce)
-     * PKCE (client & server)
+     * PKCE(proof key for code exchange) (client & server)
      * CLient Credentials(server & server)
      * Device code(apple devices etc)
      * Password Grant/Resource owner credentials Grant Type(not recommended if the auth server is third party, but if in house auth server this was used, but will be deperecated)
@@ -86,4 +86,5 @@
 - ch13 
    * 114, keycloak/okta/forgerock/amazon cognito
    * 118 setup a keycloak resource server
+   * 124 PKCE in detail
    
