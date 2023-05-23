@@ -85,4 +85,5 @@
      * Scopes(permissions to access the data from resources(roles)) 
 - ch13 
    * 114, keycloak/okta/forgerock/amazon cognito
+   * 118 setup a keycloak resource server
    
