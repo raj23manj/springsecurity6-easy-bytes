@@ -65,6 +65,8 @@
    - Grant Flows  
      * Authorization code (initial code which is then used for pkce)
      * PKCE(proof key for code exchange) (client & server)
+       - for pkce client_id is optional, that is why we need to send code_challenhe & code_verifier
+       - for non pkce flow, the client app(react, mob) should securely store the client secret and send it with client_id.(not recommended), coz if client_secret is leaked as it is to be stored on the js code, or use db call to securely fetch it. 
      * CLient Credentials(server & server)
      * Device code(apple devices etc)
      * Password Grant/Resource owner credentials Grant Type(not recommended if the auth server is third party, but if in house auth server this was used, but will be deperecated)
