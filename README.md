@@ -83,4 +83,6 @@
      * Authorization server(knows the resource owner(keycloak))
      * Resource server(other micro services to access data)
      * Scopes(permissions to access the data from resources(roles)) 
+- ch13 
+   * 114, keycloak/okta/forgerock/amazon cognito
    
