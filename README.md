@@ -244,7 +244,12 @@
         
 Course: 
 
-- Section 8 -> 63 time 4:10(all avaliable method level security)
+- Section 8 
+  -> 63 time 4:10(all avaliable method level security)
 
    ![Screenshot 2023-05-26 at 7 04 51 AM](https://github.com/raj23manj/springsecurity6-easy-bytes/assets/2163592/297bd902-b1ca-4a13-9235-3c986751358b)
+  
+  -> 68, 69 accessing jwt token subject
+  -> 71 using "retuenObject" 
+    
 
