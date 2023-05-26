@@ -241,5 +241,10 @@
         Repository: https://github.com/simplyi/NewSpringAuthorizationServer.git
 
         Zip: https://github.com/simplyi/NewSpringAuthorizationServer/archive/refs/heads/main.zip
+        
+Course: 
 
-   
+- Section 8 -> 63 time 4:10(all avaliable method level security)
+
+   ![Screenshot 2023-05-26 at 7 04 51 AM](https://github.com/raj23manj/springsecurity6-easy-bytes/assets/2163592/297bd902-b1ca-4a13-9235-3c986751358b)
+
